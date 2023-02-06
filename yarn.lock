@@ -3461,6 +3461,7 @@ __metadata:
     rollup: 3.11.0
     rollup-plugin-auto-external: 2.0.0
     semver: ^7.3.8
+    ts-api-tools: 0.0.18
     ts-node: 10.9.1
     tsc-prog: 2.2.1
     tsconfig-paths: 4.1.2
@@ -7898,6 +7899,15 @@ __metadata:
   version: 3.0.1
   resolution: "trim-newlines@npm:3.0.1"
   checksum: b530f3fadf78e570cf3c761fb74fef655beff6b0f84b29209bac6c9622db75ad1417f4a7b5d54c96605dcd72734ad44526fef9f396807b90839449eb543c6206
+  languageName: node
+  linkType: hard
+
+"ts-api-tools@npm:0.0.18":
+  version: 0.0.18
+  resolution: "ts-api-tools@npm:0.0.18"
+  peerDependencies:
+    typescript: ">=4"
+  checksum: d13991232e9d47bb6cdac1399dc4ff0a19604854d560c8e7a000d18d03008168d0f2a37ea9a90978486b495dea4ad128008a300268418ee5ba7aa39402b97314
   languageName: node
   linkType: hard
 
